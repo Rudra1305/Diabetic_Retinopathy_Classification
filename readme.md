@@ -1,5 +1,3 @@
-Absolutely! Here's the updated `README.md` with a section for `requirements.txt`:
-
 ## Diabetic Retinopathy Classification with Flask Frontend
 
 This project implements a web application for classifying Diabetic Retinopathy (DR) in retinal fundus images using a pre-trained deep learning model and Flask for the backend.
