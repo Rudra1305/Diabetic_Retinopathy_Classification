@@ -8,7 +8,7 @@ import io
 app = Flask(__name__)
 CORS(app)
 # Load the pre-trained model
-model = load_model('models\DR_base.h5')
+model = load_model('models/model.h5')
 
 # Define the image size
 width = 150
